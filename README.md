@@ -29,6 +29,9 @@ See `contributing.md` for ways to get started. #todo
 
 Please adhere to this project's `code of conduct`.
 
+Richard Ferrers, ARDC
+Katie Mills, UWA
+
   
 ## Demo
 
