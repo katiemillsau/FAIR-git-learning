@@ -1,7 +1,7 @@
 This material is licenced with a CC-BY 4.0 International licence.
 
 Please use this material, but cite its use as:
-Ferrers, R (year) Title: FAIR-git-learning. URL 
+Ferrers, R (year) Title: FAIR-git-learning. [https://github.com/areff2000/FAIR-git-learning](https://github.com/areff2000/FAIR-git-learning) 
 
 
 https://creativecommons.org/licenses/by/4.0/
