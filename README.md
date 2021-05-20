@@ -7,6 +7,7 @@ See the [Licence](LICENCE.md) assigned to this material.
 # Project Title
 
 This is ARDC training on learning Github, May 2021. For non-coding digital resource sharing.
+Source: [https://readme.so/editor](https://readme.so/editor)
 
 
 
