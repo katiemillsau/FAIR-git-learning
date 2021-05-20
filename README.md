@@ -1,5 +1,5 @@
 # FAIR-git-learning
-This is ARDC training on learning Github, May 2021. For non-coding digital resource sharing.
+This is [ARDC training](https://au-research.github.io/github-training/) on learning Github, May 2021. For non-coding digital resource sharing.
 
 See the [Licence](LICENCE.md) assigned to this material.
 
